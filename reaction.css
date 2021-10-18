@@ -1,0 +1,71 @@
+                body {
+
+                    margin: 0;
+                    padding: 0;
+                    font-family: 'Fjalla One', sans-serif;
+                    background-image: url('background.gif');
+                    /*background-color: blue;*/
+                    color: ghostwhite;
+
+                }
+
+                #main {
+
+                    width: 80%;
+                    margin: 0 auto;
+                    /*background-color: red;*/
+                    background-image: url('main.gif'); 
+                    height: 100%;
+                    text-align: center;
+                    box-shadow: 0 0 50px white;
+                    padding-top: 0.03;
+
+                }
+
+                h1 {
+
+                    font-size: 40px;
+                    color: yellow;
+
+                }
+
+                #window {
+
+                    padding: 3px 3px 3px 3px;
+                    margin: 0 auto;
+                    background-color: whitesmoke;
+                    height: 70%;
+                    width: 95%;
+                    box-shadow: 0 0 30px white;                
+                }
+
+                #shape {
+
+                    height: 100px;
+                    width: 100px;
+                    display: block;
+                    position: relative;
+                    
+                }
+
+
+                #cats {
+
+                    height : 100px;
+                    width: 100px;
+
+                } 
+
+                .para {
+
+                    font-size: 20px;
+                    display: inline;
+                    color: yellow;
+
+                }
+
+                #time {
+
+                    font-weight: bold;
+
+                }
